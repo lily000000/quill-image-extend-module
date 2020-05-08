@@ -107,6 +107,9 @@ export class ImageExtend {
         }
     }
 
+
+    
+
     /**
      * @description 将图片转为base4
      */
